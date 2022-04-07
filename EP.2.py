@@ -1,4 +1,4 @@
-from tkinter import W
+
 import turtle
 omg = turtle.Pen()
 omg.shape('turtle')
