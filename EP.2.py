@@ -2,7 +2,6 @@ from tkinter import W
 import turtle
 omg = turtle.Pen()
 omg.shape('turtle')
-w = 1
 
 def re(w='left',n=1):
     if w == 'left':
