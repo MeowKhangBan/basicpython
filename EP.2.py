@@ -16,7 +16,7 @@ def re(w='left',n=1):
 def go(x,y):
     omg.penup()
     omg.goto(x,y)
-    omg.pendown
+    omg.pendown()
 
 re('left',50)
 re('right',50)
